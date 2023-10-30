@@ -19,5 +19,6 @@ The repository presents completed projects in the course of training Data Analys
 
 |№ | Name          | Description  | Skills and tools |
 |:-|:------------- |:-------------| :----------------|
-|1 | [The task from the interview](https://github.com/raent1/N_C_Projects/blob/main/excelsior_project/README.md)| Processing datasets and building a dashboard | `python`,`pandas`,`numpy`,`tableau` |
+|1 | [Excelsior project](https://github.com/raent1/N_C_Projects/blob/main/excelsior_project/README.md)| Processing datasets and building a dashboard | `python`,`pandas`,`numpy`,`tableau` |
+|2 | [Preprocessing tasks](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/README.md)| Preprocessing the real datasets in different ways | `python`,`pandas`,`numpy`,`SQL` |
 
