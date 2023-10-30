@@ -39,6 +39,6 @@ The datasets in **CSV** and **SQL** forms present data about coffee shops, resta
 ## Results
 
 * [Task №1](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/Task_1.ipynb);
-* [Task №2](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/Task_2.ipynb);
-* [Task №3](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/Task_3.ipynb);
-* [Task №4](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/Task_4.ipynb).
+* [Task №2](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_2/Task_2.ipynb);
+* [Task №3](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_3/Task_3.ipynb);
+* [Task №4](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_4/Task_4.ipynb).
