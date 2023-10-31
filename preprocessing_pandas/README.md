@@ -34,7 +34,7 @@ The datasets in **CSV** and **SQL** forms present data (with a single database o
 * [net_property.csv](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/net_property.csv) - the designation of network enterprises;
 * [seats_property.csv](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/seats_property.csv) - the number of seats;
 * [type_property.csv](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/type_property.csv) - the information about specialization: canteen, snack bar, cafe, other;
-* [indicators_db.sqlite3](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/indicators_db.sqlite3) - the information about specialization: canteen, snack bar, cafe, other.
+* [indicators_db.sqlite3](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/indicators_db.sqlite3) - the SQL database with data on the revenue of enterprises and the number of employees.
 
 ## Results
 
