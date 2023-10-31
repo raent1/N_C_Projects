@@ -28,7 +28,7 @@
 
 ## Datasets
 
-The datasets in **CSV** and **SQL** forms present data about coffee shops, restaurants, canteens and other places like that in Moscow: 
+The datasets in **CSV** and **SQL** forms present data (with a single database of unique IDs) about coffee shops, restaurants, canteens and other places like that in Moscow: 
 
 * [main.csv](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/main.csv) - the main information about companies;
 * [net_property.csv](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/folder_task_1/net_property.csv) - the designation of network enterprises;
