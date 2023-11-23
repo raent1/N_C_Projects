@@ -19,6 +19,7 @@ The repository presents completed projects in the course of training Data Analys
 
 |№ | Name          | Description  | Skills and tools |
 |:-|:------------- |:-------------| :----------------|
-|1 | [Excelsior project](https://github.com/raent1/N_C_Projects/blob/main/excelsior_project/README.md)| Processing datasets and building a dashboard | `python`,`pandas`,`numpy`,`tableau` |
-|2 | [Preprocessing tasks](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/README.md)| Preprocessing the real datasets in different ways | `python`,`pandas`,`numpy`,`SQL` |
+|1 | [Stepik project](stepik_ml_contest/stepik_ml_project.ipynb)| Research of Stepik's course datasets to find out problems of leaving course and to optimize by predicting with ML in real time | `python`,`pandas`,`sklearn`, `seaborn` |
+|2 | [Excelsior project](https://github.com/raent1/N_C_Projects/blob/main/excelsior_project/README.md)| Processing datasets and building a dashboard | `python`,`pandas`,`numpy`,`tableau` |
+|3 | [Preprocessing tasks](https://github.com/raent1/N_C_Projects/blob/main/preprocessing_pandas/README.md)| Preprocessing the real datasets in different ways | `python`,`pandas`,`numpy`,`SQL` |
 
