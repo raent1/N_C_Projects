@@ -4,16 +4,17 @@ The repository presents completed projects in the course of training Data Analys
 
 ## Analytics Tools and Skills
 * programming languages: Python, SQL;
-* libraries for analysis: Pandas, Numpy, Matplotlib;
+* libraries for analysis: Pandas, Numpy, Matplotlib, Seaborn, Sklearn;
 * dashboards: Tableau;
 * statistics
   
 ## Certificates
-* [Python Programming](https://stepik.org/cert/1684423);
-* [Pandas Basics for Beginners](https://stepik.org/cert/1989008);
-* [SQL Basics](https://stepik.org/cert/1743902) and [SQL Advanced](https://stepik.org/cert/1950271);
-* [Data visualization and the basics of working in Tableau](https://stepik.org/cert/1757775);
-* [Basic of statistics](https://stepik.org/cert/1738529)
+* [Python Programming](https://stepik.org/cert/1684423?lang=en);
+* [Pandas Basics for Beginners](https://stepik.org/cert/1989008?lang=en);
+* [Introduction to Data Science and Machine Learning](https://stepik.org/cert/2285460?lang=en)
+* [SQL Basics](https://stepik.org/cert/1743902?lang=en) and [SQL Advanced](https://stepik.org/cert/1950271?lang=en);
+* [Data visualization and the basics of working in Tableau](https://stepik.org/cert/1757775?lang=en);
+* [Basic of statistics, P.1](https://stepik.org/cert/1738529?lang=en), [Basic of statistics, P.2](https://stepik.org/cert/2274081?lang=en)
   
 ## Projects
 
