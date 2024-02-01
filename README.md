@@ -6,7 +6,7 @@ The repository presents completed projects in the course of training Data Analys
 * programming languages: Python, SQL;
 * libraries for analysis: Pandas, Numpy, Matplotlib, Seaborn, Sklearn;
 * dashboards: Tableau;
-* statistics
+* statistical methods
   
 ## Certificates
 * [Python Programming](https://stepik.org/cert/1684423?lang=en);
