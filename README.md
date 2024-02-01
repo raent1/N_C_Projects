@@ -21,7 +21,7 @@ The repository presents completed projects in the course of training Data Analys
 |№ | Name          | Description  | Skills and tools |
 |:-|:------------- |:-------------| :----------------|
 |1 | [Stepik project](stepik_ml_contest/stepik_ml_project.ipynb)| Research of Stepik's course datasets for finding out problems of leaving course | `python`,`pandas`, `seaborn` |
-|2 | [Stepik project](titanic_ml/Titanic_Machine_Learning_from_Disaster.ipynb)| Research on Titanic's data from disaster for studying baseline of ML methods and analyzing typical mistakes | `python`,`pandas`, `sklearn`, `seaborn` |
+|2 | [Titanic ML](titanic_ml/Titanic_Machine_Learning_from_Disaster.ipynb)| Research on Titanic's data from disaster for studying baseline of ML methods and analyzing typical mistakes | `python`,`pandas`, `sklearn`, `seaborn` |
 |3 | [Excelsior project](excelsior_project/README.md)| Processing datasets and building a dashboard | `python`,`pandas`,`numpy`,`tableau` |
 |4 | [Preprocessing tasks](preprocessing_pandas/README.md)| Preprocessing the real datasets in different ways | `python`,`pandas`,`numpy`,`SQL` |
 
